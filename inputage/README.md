@@ -15,7 +15,7 @@ After a valid age is entered, display it back to the user.
 Use functions to structure the code and make it reusable.
 
 ## Example Input / Output
-```pgsql
+```yml
 Enter your age: -3
 Please enter a valid integer!
 Enter your age: abc
