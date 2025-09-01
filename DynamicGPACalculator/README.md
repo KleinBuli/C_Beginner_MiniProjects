@@ -22,4 +22,5 @@ Your GPA is: 2.23
 
 Do you want to add a grade (Y / N)? Y
 #4 grade: 1.3
-Your GPA is: 2.00 ```
+Your GPA is: 2.00
+```
