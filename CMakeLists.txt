@@ -13,4 +13,6 @@ add_executable(C_Beginner_Applications main.c
         coinflip/CoinFlip.c
         inputage/InputAge.c
         inputfullname/InputFullName.c
+        swapvariables/SwapVariables.c
+        bubblesort/BubbleSort.c
 )
