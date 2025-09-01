@@ -21,3 +21,7 @@ Input validation to prevent common errors
 Dynamic memory management in selected projects
 
 Ready-to-run examples for practice and learning
+
+## Updates
+
+I'll try to add more and more miniprojects over time.
