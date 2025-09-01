@@ -18,11 +18,12 @@ Use a function to structure the code.
 
 ## Example Input / Output
 
-```pgsql
+```yml
 Enter your full name: John Doe
 Hello, John Doe!
 ```
-```pgsql
+
+```yml
 Enter your full name:
 Please enter a valid name!
 Enter your full name: Alice Smith
