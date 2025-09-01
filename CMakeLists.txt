@@ -11,4 +11,6 @@ add_executable(C_Beginner_Applications main.c
         GPACalculator/GPACalculator.c
         DynamicGPACalculator/DynamicGPACalculator.c
         coinflip/CoinFlip.c
+        inputage/InputAge.c
+        inputfullname/InputFullName.c
 )
