@@ -15,4 +15,5 @@ add_executable(C_Beginner_Applications main.c
         inputfullname/InputFullName.c
         swapvariables/SwapVariables.c
         bubblesort/BubbleSort.c
+        student/Student.c
 )
